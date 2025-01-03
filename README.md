@@ -7,3 +7,5 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 In this notebook, a vanilla neural network with rectified units (ReLU) will be used to classify whether a certain individual is likely at risk of heart failure given attribute and health background information.
 
 The dataset can be found here: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
+![alt text](https://github.com/markhywang/Heart-Failure-Prediction/blob/main/cover.jpg)
